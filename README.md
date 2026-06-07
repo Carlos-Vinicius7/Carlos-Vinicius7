@@ -1,12 +1,25 @@
-<h3 align="left">👨‍💻 Carlos-Vincius7<br><br>Entusiasta por tecnologia, desenvolvimento de software e resolução de problemas.<br>Atualmente estudando e desenvolvendo projetos voltados para programação, redes de computadores e arquitetura de software, sempre buscando evoluir tecnicamente e aprender novas tecnologias.<br><br>💻 O que você vai encontrar aqui:<br><br>📂 Projetos acadêmicos<br>📂 Estudos e exercícios<br>📂 Aplicações web<br>📂 Projetos de redes e infraestrutura<br>📂 Experimentos e aprendizado contínuo</h3>
+## 👨‍💻 Carlos-Vincius7
 
-###
+Entusiasta por tecnologia, desenvolvimento de software e resolução de problemas.
+Atualmente estudando e desenvolvendo projetos voltados para programação, redes de computadores e arquitetura de software, sempre buscando evoluir tecnicamente e aprender novas tecnologias.
+
+## 💻 O que você vai encontrar aqui:
+
+- 📂 Projetos acadêmicos
+- 📂 Estudos e exercícios
+- 📂 Aplicações web
+- 📂 Projetos de redes e infraestrutura
+- 📂 Experimentos e aprendizado contínuo
+
+## 
+### 📊 Estátisticas:
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/Carlos-Vinicius7/Carlos-Vinicius7/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
-###
+##
+### 🤖 Linguagens e Tecnologias:
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
