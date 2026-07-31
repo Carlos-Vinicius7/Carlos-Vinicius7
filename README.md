@@ -3,6 +3,15 @@
 Entusiasta por tecnologia, desenvolvimento de software e resolução de problemas.
 Atualmente estudando e desenvolvendo projetos voltados para programação, redes de computadores e arquitetura de software, sempre buscando evoluir tecnicamente e aprender novas tecnologias.
 
+##
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carlos-Vinicius7/Carlos-Vinicius7/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Carlos-Vinicius7/Carlos-Vinicius7/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Carlos-Vinicius7/Carlos-Vinicius7/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+
 ## 💻 O que você vai encontrar aqui:
 
 - 📂 Projetos acadêmicos
@@ -42,15 +51,6 @@ Atualmente estudando e desenvolvendo projetos voltados para programação, redes
   <img src="https://raw.githubusercontent.com/Carlos-Vinicius7/Carlos-Vinicius7/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false&order=2" height="151" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/Carlos-Vinicius7/Carlos-Vinicius7/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
-
-##
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carlos-Vinicius7/Carlos-Vinicius7/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Carlos-Vinicius7/Carlos-Vinicius7/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Carlos-Vinicius7/Carlos-Vinicius7/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
 
 ###
 
