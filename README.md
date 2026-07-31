@@ -8,7 +8,6 @@ Atualmente estudando e desenvolvendo projetos voltados para programação, redes
 - 📂 Projetos acadêmicos
 - 📂 Estudos e exercícios
 - 📂 Aplicações web
-- 📂 Projetos de redes e infraestrutura
 - 📂 Experimentos e aprendizado contínuo
 
 ##
